@@ -45,7 +45,7 @@ const Navbar = () => {
         <div className=" bg-slate-200">
             <div className="navbar w-11/12 mx-auto">
                 <div className="flex-1">
-                    <a className="btn btn-ghost normal-case text-xl">Shop app</a>
+                    <a className="btn btn-ghost normal-case text-xl">Shop Idea</a>
                 </div>
                 <div className="flex-none">
                     <div className="hidden lg:block">
